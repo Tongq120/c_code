@@ -1,0 +1,49 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\2250205\\Desktop\\k04-3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{88051174-92F2-4ECD-9C8C-B10A168C9846}|k04-3.vcxproj|C:\\Users\\2250205\\Desktop\\k04-3\\k04_3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{88051174-92F2-4ECD-9C8C-B10A168C9846}|k04-3.vcxproj|solutionrelative:k04_3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "k04_3.cpp",
+              "DocumentMoniker": "C:\\Users\\2250205\\Desktop\\k04-3\\k04_3.cpp",
+              "RelativeDocumentMoniker": "k04_3.cpp",
+              "ToolTip": "C:\\Users\\2250205\\Desktop\\k04-3\\k04_3.cpp",
+              "RelativeToolTip": "k04_3.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-25T00:59:15.929Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
