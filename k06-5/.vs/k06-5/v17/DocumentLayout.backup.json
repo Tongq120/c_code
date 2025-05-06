@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\2250205\\Desktop\\k06-5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F3E6B6DE-7C44-4A67-96F5-07A636D57EDA}|k06-5.vcxproj|C:\\Users\\2250205\\Desktop\\k06-5\\k06_5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F3E6B6DE-7C44-4A67-96F5-07A636D57EDA}|k06-5.vcxproj|solutionrelative:k06_5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "k06_5.cpp",
+              "DocumentMoniker": "C:\\Users\\2250205\\Desktop\\k06-5\\k06_5.cpp",
+              "RelativeDocumentMoniker": "k06_5.cpp",
+              "ToolTip": "C:\\Users\\2250205\\Desktop\\k06-5\\k06_5.cpp",
+              "RelativeToolTip": "k06_5.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-02T01:16:06.927Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
